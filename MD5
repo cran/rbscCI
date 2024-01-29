@@ -1,4 +1,4 @@
-65dfd106a246335dc1bd235a42c772af *DESCRIPTION
+600928d5f841b78b2d90141e68a854ba *DESCRIPTION
 eb6899becc53d080ea8d9b9873fb730e *NAMESPACE
 c6509aee9bdb76d4ef9c2e6cff77e82b *NEWS.md
 4e218adc287d71d1acc7f8ae45014831 *R/RcppExports.R
@@ -10,8 +10,6 @@ eaf122c9d909f66a789d8c9c1107cc1c *man/bscCI.Rd
 135b2d266e59a0035a7d030715ec0660 *man/cpCI.Rd
 f5c6916b452efe9f7b3f3b9624bc54c3 *man/figures/README-pressure-1.png
 9889b667ca01031f937dc480e51da12d *man/rbscCI.Rd
-e3d3cb360fbfdb3c6974e14eb5f09870 *src/Makevars
-e3d3cb360fbfdb3c6974e14eb5f09870 *src/Makevars.win
 9a562ae6ed0b12288f7fa99f444786bd *src/RcppExports.cpp
 b72055f3bb2de367a78f42b3228301ef *src/binary-search.cpp
 a69a4dff177d809dd360ff8be0bb3738 *src/binary-search.h
